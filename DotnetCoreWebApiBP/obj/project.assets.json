@@ -12078,11 +12078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\abhishek\\DotNetCoreWithAngularBP\\DotnetCoreWebApiBP\\DotnetCoreWebApiBP.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\abhishek\\DotNetCoreWebApi\\DotnetCoreWebApiBP\\DotnetCoreWebApiBP.csproj",
       "projectName": "DotnetCoreWebApiBP",
-      "projectPath": "C:\\Users\\Admin\\Documents\\abhishek\\DotNetCoreWithAngularBP\\DotnetCoreWebApiBP\\DotnetCoreWebApiBP.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\abhishek\\DotNetCoreWebApi\\DotnetCoreWebApiBP\\DotnetCoreWebApiBP.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\abhishek\\DotNetCoreWithAngularBP\\DotnetCoreWebApiBP\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\abhishek\\DotNetCoreWebApi\\DotnetCoreWebApiBP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
