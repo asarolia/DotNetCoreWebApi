@@ -1,4 +1,4 @@
-# DotNetCoreWithAngularBP
+# DotNetCoreWebAPI Boiler Plate code
 
 This is the boiler plate for setting up Web API using .Net Core 2.2
 
