@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\abhishek\DotNetCoreWithAngularBP\DotnetCoreWebApiBP\bin\Debug\netcoreapp2.2\DotnetCoreWebApiBP.deps.json
+C:\Users\Admin\Documents\abhishek\DotNetCoreWithAngularBP\DotnetCoreWebApiBP\bin\Debug\netcoreapp2.2\DotnetCoreWebApiBP.runtimeconfig.json
+C:\Users\Admin\Documents\abhishek\DotNetCoreWithAngularBP\DotnetCoreWebApiBP\bin\Debug\netcoreapp2.2\DotnetCoreWebApiBP.runtimeconfig.dev.json
+C:\Users\Admin\Documents\abhishek\DotNetCoreWithAngularBP\DotnetCoreWebApiBP\bin\Debug\netcoreapp2.2\DotnetCoreWebApiBP.dll
+C:\Users\Admin\Documents\abhishek\DotNetCoreWithAngularBP\DotnetCoreWebApiBP\bin\Debug\netcoreapp2.2\DotnetCoreWebApiBP.pdb
+C:\Users\Admin\Documents\abhishek\DotNetCoreWithAngularBP\DotnetCoreWebApiBP\obj\Debug\netcoreapp2.2\DotnetCoreWebApiBP.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\abhishek\DotNetCoreWithAngularBP\DotnetCoreWebApiBP\obj\Debug\netcoreapp2.2\DotnetCoreWebApiBP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\abhishek\DotNetCoreWithAngularBP\DotnetCoreWebApiBP\obj\Debug\netcoreapp2.2\DotnetCoreWebApiBP.RazorAssemblyInfo.cache
+C:\Users\Admin\Documents\abhishek\DotNetCoreWithAngularBP\DotnetCoreWebApiBP\obj\Debug\netcoreapp2.2\DotnetCoreWebApiBP.RazorAssemblyInfo.cs
+C:\Users\Admin\Documents\abhishek\DotNetCoreWithAngularBP\DotnetCoreWebApiBP\obj\Debug\netcoreapp2.2\DotnetCoreWebApiBP.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\abhishek\DotNetCoreWithAngularBP\DotnetCoreWebApiBP\obj\Debug\netcoreapp2.2\DotnetCoreWebApiBP.AssemblyInfo.cs
+C:\Users\Admin\Documents\abhishek\DotNetCoreWithAngularBP\DotnetCoreWebApiBP\obj\Debug\netcoreapp2.2\DotnetCoreWebApiBP.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Documents\abhishek\DotNetCoreWithAngularBP\DotnetCoreWebApiBP\obj\Debug\netcoreapp2.2\DotnetCoreWebApiBP.dll
+C:\Users\Admin\Documents\abhishek\DotNetCoreWithAngularBP\DotnetCoreWebApiBP\obj\Debug\netcoreapp2.2\DotnetCoreWebApiBP.pdb
