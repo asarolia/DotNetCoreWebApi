@@ -46,5 +46,17 @@ namespace DotnetCoreWebApiBP.Controllers
 
             return todoItem;
         }
+
+        // POST: api/Todo
+        [HttpPost]
+        public async Task<ActionResult<ToDoItem>> PostToDoItem(ToDoItem item)
+        {
+            _context.ToDoItems.Add(item);
+            await _context.SaveChangesAsync();
+
+            return CreatedAtAction(nameof(GetToDoItem), new { id = item.Id }, item);
+        }
+
+        
     }
 }
